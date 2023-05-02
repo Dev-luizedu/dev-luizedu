@@ -1,6 +1,5 @@
 ### Hi there 👋 Me chamo Luiz !!!
 <br> 
-<br> 
 
 ### Quem sou eu 🤔
 Atualmente eu me encontro no Bacharelado em Tecnologia da Informação pelo Instituto Metrópole Digital - Universidade Federal do Rio Grande do Norte.
