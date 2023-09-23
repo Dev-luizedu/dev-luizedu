@@ -19,6 +19,7 @@ Atualmente eu me encontro no Bacharelado em Tecnologia da Informação pelo Inst
 
 ### Aprendendo 🌱
 <div style="display: inline_block">
+  <img align="center" alt="luiz-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="center" alt="luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="luiz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
